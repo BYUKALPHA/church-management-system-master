@@ -1,0 +1,8 @@
+
+.form-group.excerpt .CodeMirror {
+    height: 100px;
+    min-height: 100px;
+}
+a.selected-status {
+    font-weight: bold;
+}
